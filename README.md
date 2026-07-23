@@ -50,7 +50,8 @@ xcodebuild -scheme OpnsenseWidget -project OpnsenseWidget.xcodeproj build
 
 ## Screenshots
 
-<img width="360" alt="Opnsense Widget" src="https://github.com/user-attachments/assets/019d5aea-6624-4310-9ecf-7ced7b574325" />
+<img width="370" height="626" alt="Screenshot 2026-07-24 at 00 06 45" src="https://github.com/user-attachments/assets/6986f819-e46b-46a8-8cc2-d6ff8851c34f" />
+
 
 ## Author
 
